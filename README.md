@@ -2,9 +2,9 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <form>
-  team away:<br/>
+  person 1:<br/>
   <input type"text">
-team home:<br/>
+person 2:<br/>
   <input type"text">
 
 </form>
@@ -30,10 +30,12 @@ team home:<br/>
         <th>16</th>
         <th>17</th>
         <th>18</th>
+        <th>end score</th>
     </tr>
   
   <tr>
-        <td>away team</th>
+        <td>P1</th>
+        <td></td>
         <td></td>
         <td></td>
         <td></td>
@@ -54,7 +56,8 @@ team home:<br/>
         <td></td>
     </tr>
     <tr>
-        <td>home team</td>
+        <td>P2</td>
+        <td></td>
         <td></td>
         <td></td>
         <td></td>
