@@ -1,6 +1,9 @@
 # golf-score-card
 <!DOCTYPE html>
 <html lang="en-US">
+  <head>
+  <link rel="stylesheet" href="styles.css">
+</head>
 <form>
   person 1:<br/>
   <input type"text">
