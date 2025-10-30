@@ -37,7 +37,7 @@ person 2:<br/>
     </tr>
   
   <tr>
-        <td>P1</th>
+        <td>P1</td>
         <td></td>
         <td></td>
         <td></td>
